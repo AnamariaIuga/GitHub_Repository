@@ -1,0 +1,10 @@
+All steps for creating GIT and GITHUB repo:
+
+1) create a new folder
+2) put one or more files in it
+3) open the folder in VSC (Visual Studio Code)
+4) open the Terminal
+5) Git init
+6) Git add . 
+7) git status
+8) git commit -m "initialize a new git repo with a good message"
